@@ -1,0 +1,3113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-11-06">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="relation" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Albert Einstein" label="Albert Einstein">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”" label="“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="change" label="change">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="deep-thoughts" label="deep-thoughts">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="thinking" label="thinking">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="world" label="world">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="J.K. Rowling" label="J.K. Rowling">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“It is our choices, Harry, that show what we truly are, far more than our abilities.”" label="“It is our choices, Harry, that show what we truly are, far more than our abilities.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="abilities" label="abilities">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="choices" label="choices">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”" label="“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="inspirational" label="inspirational">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="life" label="life">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="live" label="live">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="miracle" label="miracle">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="miracles" label="miracles">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Jane Austen" label="Jane Austen">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”" label="“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="aliteracy" label="aliteracy">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="books" label="books">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="classic" label="classic">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="humor" label="humor">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Marilyn Monroe" label="Marilyn Monroe">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”" label="“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="be-yourself" label="be-yourself">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“Try not to become a man of success. Rather become a man of value.”" label="“Try not to become a man of success. Rather become a man of value.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="adulthood" label="adulthood">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="success" label="success">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="value" label="value">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="André Gide" label="André Gide">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“It is better to be hated for what you are than to be loved for what you are not.”" label="“It is better to be hated for what you are than to be loved for what you are not.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="love" label="love">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Thomas A. Edison" label="Thomas A. Edison">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“I have not failed. I've just found 10,000 ways that won't work.”" label="“I have not failed. I've just found 10,000 ways that won't work.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="edison" label="edison">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="failure" label="failure">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="paraphrased" label="paraphrased">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Eleanor Roosevelt" label="Eleanor Roosevelt">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“A woman is like a tea bag; you never know how strong it is until it's in hot water.”" label="“A woman is like a tea bag; you never know how strong it is until it's in hot water.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="misattributed-eleanor-roosevelt" label="misattributed-eleanor-roosevelt">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Steve Martin" label="Steve Martin">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“A day without sunshine is like, you know, night.”" label="“A day without sunshine is like, you know, night.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="obvious" label="obvious">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="simile" label="simile">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”" label="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="friends" label="friends">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="heartbreak" label="heartbreak">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="sisters" label="sisters">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”" label="“It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="courage" label="courage">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“If you can't explain it to a six year old, you don't understand it yourself.”" label="“If you can't explain it to a six year old, you don't understand it yourself.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="simplicity" label="simplicity">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="understand" label="understand">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Bob Marley" label="Bob Marley">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect—you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.”" label="“You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect—you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="Dr. Seuss" label="Dr. Seuss">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.”" label="“I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="fantasy" label="fantasy">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Douglas Adams" label="Douglas Adams">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“I may not have gone where I intended to go, but I think I have ended up where I needed to be.”" label="“I may not have gone where I intended to go, but I think I have ended up where I needed to be.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="navigation" label="navigation">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Elie Wiesel" label="Elie Wiesel">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" label="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="activism" label="activism">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="apathy" label="apathy">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="hate" label="hate">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="indifference" label="indifference">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="opposite" label="opposite">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="philosophy" label="philosophy">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Friedrich Nietzsche" label="Friedrich Nietzsche">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”" label="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="friendship" label="friendship">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="lack-of-friendship" label="lack-of-friendship">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="lack-of-love" label="lack-of-love">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="marriage" label="marriage">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="unhappy-marriage" label="unhappy-marriage">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Mark Twain" label="Mark Twain">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“Good friends, good books, and a sleepy conscience: this is the ideal life.”" label="“Good friends, good books, and a sleepy conscience: this is the ideal life.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="contentment" label="contentment">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Allen Saunders" label="Allen Saunders">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“Life is what happens to us while we are making other plans.”" label="“Life is what happens to us while we are making other plans.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="fate" label="fate">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="misattributed-john-lennon" label="misattributed-john-lennon">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="planning" label="planning">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="plans" label="plans">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Pablo Neruda" label="Pablo Neruda">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”" label="“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="poetry" label="poetry">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Ralph Waldo Emerson" label="Ralph Waldo Emerson">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“For every minute you are angry you lose sixty seconds of happiness.”" label="“For every minute you are angry you lose sixty seconds of happiness.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="happiness" label="happiness">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Mother Teresa" label="Mother Teresa">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“If you judge people, you have no time to love them.”" label="“If you judge people, you have no time to love them.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="attributed-no-source" label="attributed-no-source">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Garrison Keillor" label="Garrison Keillor">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”" label="“Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="religion" label="religion">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Jim Henson" label="Jim Henson">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.”" label="“Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“Today you are You, that is truer than true. There is no one alive who is Youer than You.”" label="“Today you are You, that is truer than true. There is no one alive who is Youer than You.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="comedy" label="comedy">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="yourself" label="yourself">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”" label="“If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="children" label="children">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="fairy-tales" label="fairy-tales">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.”" label="“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“Logic will get you from A to Z; imagination will get you everywhere.”" label="“Logic will get you from A to Z; imagination will get you everywhere.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="imagination" label="imagination">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“One good thing about music, when it hits you, you feel no pain.”" label="“One good thing about music, when it hits you, you feel no pain.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="music" label="music">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”" label="“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="learning" label="learning">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="reading" label="reading">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="seuss" label="seuss">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”" label="“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="dumbledore" label="dumbledore">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.”" label="“The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“Not all of us can do great things. But we can do small things with great love.”" label="“Not all of us can do great things. But we can do small things with great love.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="misattributed-to-mother-teresa" label="misattributed-to-mother-teresa">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“To the well-organized mind, death is but the next great adventure.”" label="“To the well-organized mind, death is but the next great adventure.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="death" label="death">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Charles M. Schulz" label="Charles M. Schulz">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“All you need is love. But a little chocolate now and then doesn't hurt.”" label="“All you need is love. But a little chocolate now and then doesn't hurt.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="chocolate" label="chocolate">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="food" label="food">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="William Nicholson" label="William Nicholson">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“We read to know we're not alone.”" label="“We read to know we're not alone.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="misattributed-to-c-s-lewis" label="misattributed-to-c-s-lewis">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“Any fool can know. The point is to understand.”" label="“Any fool can know. The point is to understand.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="knowledge" label="knowledge">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="understanding" label="understanding">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="wisdom" label="wisdom">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Jorge Luis Borges" label="Jorge Luis Borges">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“I have always imagined that Paradise will be a kind of library.”" label="“I have always imagined that Paradise will be a kind of library.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="library" label="library">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="George Eliot" label="George Eliot">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“It is never too late to be what you might have been.”" label="“It is never too late to be what you might have been.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="George R.R. Martin" label="George R.R. Martin">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”" label="“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="read" label="read">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="readers" label="readers">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="reading-books" label="reading-books">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="C.S. Lewis" label="C.S. Lewis">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“You can never get a cup of tea large enough or a book long enough to suit me.”" label="“You can never get a cup of tea large enough or a book long enough to suit me.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="tea" label="tea">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“You believe lies so you eventually learn to trust no one but yourself.”" label="“You believe lies so you eventually learn to trust no one but yourself.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“If you can make a woman laugh, you can make her do anything.”" label="“If you can make a woman laugh, you can make her do anything.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="girls" label="girls">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“Life is like riding a bicycle. To keep your balance, you must keep moving.”" label="“Life is like riding a bicycle. To keep your balance, you must keep moving.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.”" label="“The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“A wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.”" label="“A wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="Martin Luther King Jr." label="Martin Luther King Jr.">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“Only in the darkness can you see the stars.”" label="“Only in the darkness can you see the stars.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="hope" label="hope">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“It matters not what someone is born, but what they grow to be.”" label="“It matters not what someone is born, but what they grow to be.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="James Baldwin" label="James Baldwin">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.”" label="“Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”" label="“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“Do one thing every day that scares you.”" label="“Do one thing every day that scares you.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="attributed" label="attributed">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="fear" label="fear">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="inspiration" label="inspiration">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.”" label="“I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.”" label="“If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="Haruki Murakami" label="Haruki Murakami">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“If you only read the books that everyone else is reading, you can only think what everyone else is thinking.”" label="“If you only read the books that everyone else is reading, you can only think what everyone else is thinking.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="thought" label="thought">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Alexandre Dumas fils" label="Alexandre Dumas fils">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“The difference between genius and stupidity is: genius has its limits.”" label="“The difference between genius and stupidity is: genius has its limits.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="misattributed-to-einstein" label="misattributed-to-einstein">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Stephenie Meyer" label="Stephenie Meyer">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“He's like a drug for you, Bella.”" label="“He's like a drug for you, Bella.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="drug" label="drug">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="romance" label="romance">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Ernest Hemingway" label="Ernest Hemingway">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“There is no friend as loyal as a book.”" label="“There is no friend as loyal as a book.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="novelist-quotes" label="novelist-quotes">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Helen Keller" label="Helen Keller">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.”" label="“When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="George Bernard Shaw" label="George Bernard Shaw">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“Life isn't about finding yourself. Life is about creating yourself.”" label="“Life isn't about finding yourself. Life is about creating yourself.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="Charles Bukowski" label="Charles Bukowski">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”" label="“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="alcohol" label="alcohol">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Suzanne Collins" label="Suzanne Collins">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“You don’t forget the face of the person who was your last hope.”" label="“You don’t forget the face of the person who was your last hope.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="the-hunger-games" label="the-hunger-games">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.”" label="“Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.”" label="“To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="J.R.R. Tolkien" label="J.R.R. Tolkien">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“Not all those who wander are lost.”" label="“Not all those who wander are lost.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="bilbo" label="bilbo">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="journey" label="journey">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="lost" label="lost">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="quest" label="quest">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="travel" label="travel">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="wander" label="wander">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“Do not pity the dead, Harry. Pity the living, and, above all those who live without love.”" label="“Do not pity the dead, Harry. Pity the living, and, above all those who live without love.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="live-death-love" label="live-death-love">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“There is nothing to writing. All you do is sit down at a typewriter and bleed.”" label="“There is nothing to writing. All you do is sit down at a typewriter and bleed.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="good" label="good">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="writing" label="writing">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.”" label="“Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="regrets" label="regrets">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“I have never let my schooling interfere with my education.”" label="“I have never let my schooling interfere with my education.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="education" label="education">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!”" label="“I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="troubles" label="troubles">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Alfred Tennyson" label="Alfred Tennyson">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“If I had a flower for every time I thought of you...I could walk through my garden forever.”" label="“If I had a flower for every time I thought of you...I could walk through my garden forever.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“Some people never go crazy. What truly horrible lives they must lead.”" label="“Some people never go crazy. What truly horrible lives they must lead.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="Terry Pratchett" label="Terry Pratchett">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”" label="“The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="open-mind" label="open-mind">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!”" label="“Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="J.D. Salinger" label="J.D. Salinger">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”" label="“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="authors" label="authors">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="literature" label="literature">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="George Carlin" label="George Carlin">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“The reason I talk to myself is because I’m the only one whose answers I accept.”" label="“The reason I talk to myself is because I’m the only one whose answers I accept.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="insanity" label="insanity">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="lies" label="lies">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="lying" label="lying">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="self-indulgence" label="self-indulgence">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="truth" label="truth">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="John Lennon" label="John Lennon">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" label="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="beatles" label="beatles">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="connection" label="connection">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="dreamers" label="dreamers">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="dreaming" label="dreaming">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="dreams" label="dreams">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="peace" label="peace">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="W.C. Fields" label="W.C. Fields">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“I am free of all prejudice. I hate everyone equally. ”" label="“I am free of all prejudice. I hate everyone equally. ”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="sinister" label="sinister">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Ayn Rand" label="Ayn Rand">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“The question isn't who is going to let me; it's who is going to stop me.”" label="“The question isn't who is going to let me; it's who is going to stop me.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“′Classic′ - a book which people praise and don't read.”" label="“′Classic′ - a book which people praise and don't read.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“Anyone who has never made a mistake has never tried anything new.”" label="“Anyone who has never made a mistake has never tried anything new.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="mistakes" label="mistakes">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”" label="“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="romantic" label="romantic">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="women" label="women">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.”" label="“Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="integrity" label="integrity">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”" label="“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.”" label="“There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="elizabeth-bennet" label="elizabeth-bennet">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="jane-austen" label="jane-austen">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“Some day you will be old enough to start reading fairy tales again.”" label="“Some day you will be old enough to start reading fairy tales again.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="age" label="age">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="fairytales" label="fairytales">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="growing-up" label="growing-up">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.”" label="“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="god" label="god">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.”" label="“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“A lie can travel half way around the world while the truth is putting on its shoes.”" label="“A lie can travel half way around the world while the truth is putting on its shoes.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="misattributed-mark-twain" label="misattributed-mark-twain">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”" label="“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="christianity" label="christianity">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="faith" label="faith">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="sun" label="sun">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“The truth.&quot; Dumbledore sighed. &quot;It is a beautiful and terrible thing, and should therefore be treated with great caution.”" label="“The truth.&quot; Dumbledore sighed. &quot;It is a beautiful and terrible thing, and should therefore be treated with great caution.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="Jimi Hendrix" label="Jimi Hendrix">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.”" label="“I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="J.M. Barrie" label="J.M. Barrie">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“To die will be an awfully big adventure.”" label="“To die will be an awfully big adventure.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="adventure" label="adventure">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="E.E. Cummings" label="E.E. Cummings">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“It takes courage to grow up and become who you really are.”" label="“It takes courage to grow up and become who you really are.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="Khaled Hosseini" label="Khaled Hosseini">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“But better to get hurt by the truth than comforted with a lie.”" label="“But better to get hurt by the truth than comforted with a lie.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="Harper Lee" label="Harper Lee">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.”" label="“You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="better-life-empathy" label="better-life-empathy">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="Madeleine L'Engle" label="Madeleine L'Engle">
+        <attvalues>
+          <attvalue for="0" value="author" />
+        </attvalues>
+      </node>
+      <node id="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" label="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="difficult" label="difficult">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="grown-ups" label="grown-ups">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="write" label="write">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="writers" label="writers">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+      <node id="“Never tell the truth to people who are not worthy of it.”" label="“Never tell the truth to people who are not worthy of it.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“A person's a person, no matter how small.”" label="“A person's a person, no matter how small.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="“... a mind needs books as a sword needs a whetstone, if it is to keep its edge.”" label="“... a mind needs books as a sword needs a whetstone, if it is to keep its edge.”">
+        <attvalues>
+          <attvalue for="0" value="quote" />
+        </attvalues>
+      </node>
+      <node id="mind" label="mind">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Albert Einstein" target="“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”" id="0">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Albert Einstein" target="“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”" id="1">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Albert Einstein" target="“Try not to become a man of success. Rather become a man of value.”" id="2">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Albert Einstein" target="“If you can't explain it to a six year old, you don't understand it yourself.”" id="3">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Albert Einstein" target="“If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”" id="4">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Albert Einstein" target="“Logic will get you from A to Z; imagination will get you everywhere.”" id="5">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Albert Einstein" target="“Any fool can know. The point is to understand.”" id="6">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Albert Einstein" target="“Life is like riding a bicycle. To keep your balance, you must keep moving.”" id="7">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Albert Einstein" target="“If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.”" id="8">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Albert Einstein" target="“Anyone who has never made a mistake has never tried anything new.”" id="9">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”" target="change" id="10">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”" target="deep-thoughts" id="11">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”" target="thinking" id="12">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”" target="world" id="13">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="J.K. Rowling" target="“It is our choices, Harry, that show what we truly are, far more than our abilities.”" id="14">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="J.K. Rowling" target="“It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”" id="15">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="J.K. Rowling" target="“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.”" id="16">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="J.K. Rowling" target="“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”" id="17">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="J.K. Rowling" target="“To the well-organized mind, death is but the next great adventure.”" id="18">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="J.K. Rowling" target="“It matters not what someone is born, but what they grow to be.”" id="19">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="J.K. Rowling" target="“Do not pity the dead, Harry. Pity the living, and, above all those who live without love.”" id="20">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="J.K. Rowling" target="“Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.”" id="21">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="J.K. Rowling" target="“The truth.&quot; Dumbledore sighed. &quot;It is a beautiful and terrible thing, and should therefore be treated with great caution.”" id="22">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“It is our choices, Harry, that show what we truly are, far more than our abilities.”" target="abilities" id="23">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“It is our choices, Harry, that show what we truly are, far more than our abilities.”" target="choices" id="24">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”" target="inspirational" id="25">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”" target="life" id="26">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”" target="live" id="27">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”" target="miracle" id="28">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”" target="miracles" id="29">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Jane Austen" target="“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”" id="30">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Jane Austen" target="“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”" id="31">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Jane Austen" target="“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”" id="32">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Jane Austen" target="“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”" id="33">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Jane Austen" target="“There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.”" id="34">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”" target="aliteracy" id="35">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”" target="books" id="36">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”" target="classic" id="37">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”" target="humor" id="38">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Marilyn Monroe" target="“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”" id="39">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Marilyn Monroe" target="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”" id="40">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Marilyn Monroe" target="“You believe lies so you eventually learn to trust no one but yourself.”" id="41">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Marilyn Monroe" target="“If you can make a woman laugh, you can make her do anything.”" id="42">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Marilyn Monroe" target="“The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.”" id="43">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Marilyn Monroe" target="“A wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.”" id="44">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Marilyn Monroe" target="“I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.”" id="45">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”" target="be-yourself" id="46">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”" target="inspirational" id="47">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Try not to become a man of success. Rather become a man of value.”" target="adulthood" id="48">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Try not to become a man of success. Rather become a man of value.”" target="success" id="49">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Try not to become a man of success. Rather become a man of value.”" target="value" id="50">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="André Gide" target="“It is better to be hated for what you are than to be loved for what you are not.”" id="51">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“It is better to be hated for what you are than to be loved for what you are not.”" target="life" id="52">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“It is better to be hated for what you are than to be loved for what you are not.”" target="love" id="53">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Thomas A. Edison" target="“I have not failed. I've just found 10,000 ways that won't work.”" id="54">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“I have not failed. I've just found 10,000 ways that won't work.”" target="edison" id="55">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I have not failed. I've just found 10,000 ways that won't work.”" target="failure" id="56">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I have not failed. I've just found 10,000 ways that won't work.”" target="inspirational" id="57">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I have not failed. I've just found 10,000 ways that won't work.”" target="paraphrased" id="58">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Eleanor Roosevelt" target="“A woman is like a tea bag; you never know how strong it is until it's in hot water.”" id="59">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Eleanor Roosevelt" target="“Do one thing every day that scares you.”" id="60">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“A woman is like a tea bag; you never know how strong it is until it's in hot water.”" target="misattributed-eleanor-roosevelt" id="61">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Steve Martin" target="“A day without sunshine is like, you know, night.”" id="62">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“A day without sunshine is like, you know, night.”" target="humor" id="63">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“A day without sunshine is like, you know, night.”" target="obvious" id="64">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“A day without sunshine is like, you know, night.”" target="simile" id="65">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”" target="friends" id="66">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”" target="heartbreak" id="67">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”" target="inspirational" id="68">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”" target="life" id="69">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”" target="love" id="70">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”" target="sisters" id="71">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”" target="courage" id="72">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”" target="friends" id="73">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“If you can't explain it to a six year old, you don't understand it yourself.”" target="simplicity" id="74">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“If you can't explain it to a six year old, you don't understand it yourself.”" target="understand" id="75">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Bob Marley" target="“You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect—you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.”" id="76">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Bob Marley" target="“One good thing about music, when it hits you, you feel no pain.”" id="77">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Bob Marley" target="“The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.”" id="78">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect—you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.”" target="love" id="79">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Dr. Seuss" target="“I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.”" id="80">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Dr. Seuss" target="“Today you are You, that is truer than true. There is no one alive who is Youer than You.”" id="81">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Dr. Seuss" target="“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”" id="82">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Dr. Seuss" target="“I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!”" id="83">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Dr. Seuss" target="“Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!”" id="84">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Dr. Seuss" target="“A person's a person, no matter how small.”" id="85">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.”" target="fantasy" id="86">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Douglas Adams" target="“I may not have gone where I intended to go, but I think I have ended up where I needed to be.”" id="87">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“I may not have gone where I intended to go, but I think I have ended up where I needed to be.”" target="life" id="88">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I may not have gone where I intended to go, but I think I have ended up where I needed to be.”" target="navigation" id="89">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Elie Wiesel" target="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" id="90">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="activism" id="91">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="apathy" id="92">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="hate" id="93">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="indifference" id="94">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="inspirational" id="95">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="love" id="96">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="opposite" id="97">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="philosophy" id="98">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Friedrich Nietzsche" target="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”" id="99">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”" target="friendship" id="100">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”" target="lack-of-friendship" id="101">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”" target="lack-of-love" id="102">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”" target="love" id="103">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”" target="marriage" id="104">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”" target="unhappy-marriage" id="105">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Mark Twain" target="“Good friends, good books, and a sleepy conscience: this is the ideal life.”" id="106">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Mark Twain" target="“I have never let my schooling interfere with my education.”" id="107">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Mark Twain" target="“′Classic′ - a book which people praise and don't read.”" id="108">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Mark Twain" target="“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.”" id="109">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Mark Twain" target="“A lie can travel half way around the world while the truth is putting on its shoes.”" id="110">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Mark Twain" target="“Never tell the truth to people who are not worthy of it.”" id="111">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“Good friends, good books, and a sleepy conscience: this is the ideal life.”" target="books" id="112">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Good friends, good books, and a sleepy conscience: this is the ideal life.”" target="contentment" id="113">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Good friends, good books, and a sleepy conscience: this is the ideal life.”" target="friends" id="114">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Good friends, good books, and a sleepy conscience: this is the ideal life.”" target="friendship" id="115">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Good friends, good books, and a sleepy conscience: this is the ideal life.”" target="life" id="116">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Allen Saunders" target="“Life is what happens to us while we are making other plans.”" id="117">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“Life is what happens to us while we are making other plans.”" target="fate" id="118">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Life is what happens to us while we are making other plans.”" target="life" id="119">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Life is what happens to us while we are making other plans.”" target="misattributed-john-lennon" id="120">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Life is what happens to us while we are making other plans.”" target="planning" id="121">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Life is what happens to us while we are making other plans.”" target="plans" id="122">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Pablo Neruda" target="“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”" id="123">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”" target="love" id="124">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”" target="poetry" id="125">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Ralph Waldo Emerson" target="“For every minute you are angry you lose sixty seconds of happiness.”" id="126">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Ralph Waldo Emerson" target="“Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.”" id="127">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“For every minute you are angry you lose sixty seconds of happiness.”" target="happiness" id="128">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Mother Teresa" target="“If you judge people, you have no time to love them.”" id="129">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Mother Teresa" target="“Not all of us can do great things. But we can do small things with great love.”" id="130">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“If you judge people, you have no time to love them.”" target="attributed-no-source" id="131">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Garrison Keillor" target="“Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”" id="132">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”" target="humor" id="133">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”" target="religion" id="134">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Jim Henson" target="“Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.”" id="135">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.”" target="humor" id="136">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Today you are You, that is truer than true. There is no one alive who is Youer than You.”" target="comedy" id="137">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Today you are You, that is truer than true. There is no one alive who is Youer than You.”" target="life" id="138">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Today you are You, that is truer than true. There is no one alive who is Youer than You.”" target="yourself" id="139">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”" target="children" id="140">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”" target="fairy-tales" id="141">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Logic will get you from A to Z; imagination will get you everywhere.”" target="imagination" id="142">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“One good thing about music, when it hits you, you feel no pain.”" target="music" id="143">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”" target="learning" id="144">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”" target="reading" id="145">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”" target="seuss" id="146">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”" target="dumbledore" id="147">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.”" target="friendship" id="148">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Not all of us can do great things. But we can do small things with great love.”" target="misattributed-to-mother-teresa" id="149">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Not all of us can do great things. But we can do small things with great love.”" target="paraphrased" id="150">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“To the well-organized mind, death is but the next great adventure.”" target="death" id="151">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“To the well-organized mind, death is but the next great adventure.”" target="inspirational" id="152">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Charles M. Schulz" target="“All you need is love. But a little chocolate now and then doesn't hurt.”" id="153">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“All you need is love. But a little chocolate now and then doesn't hurt.”" target="chocolate" id="154">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“All you need is love. But a little chocolate now and then doesn't hurt.”" target="food" id="155">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“All you need is love. But a little chocolate now and then doesn't hurt.”" target="humor" id="156">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="William Nicholson" target="“We read to know we're not alone.”" id="157">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“We read to know we're not alone.”" target="misattributed-to-c-s-lewis" id="158">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“We read to know we're not alone.”" target="reading" id="159">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Any fool can know. The point is to understand.”" target="knowledge" id="160">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Any fool can know. The point is to understand.”" target="learning" id="161">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Any fool can know. The point is to understand.”" target="understanding" id="162">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Any fool can know. The point is to understand.”" target="wisdom" id="163">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Jorge Luis Borges" target="“I have always imagined that Paradise will be a kind of library.”" id="164">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“I have always imagined that Paradise will be a kind of library.”" target="books" id="165">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I have always imagined that Paradise will be a kind of library.”" target="library" id="166">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="George Eliot" target="“It is never too late to be what you might have been.”" id="167">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“It is never too late to be what you might have been.”" target="inspirational" id="168">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="George R.R. Martin" target="“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”" id="169">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="George R.R. Martin" target="“... a mind needs books as a sword needs a whetstone, if it is to keep its edge.”" id="170">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”" target="read" id="171">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”" target="readers" id="172">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”" target="reading" id="173">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”" target="reading-books" id="174">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="C.S. Lewis" target="“You can never get a cup of tea large enough or a book long enough to suit me.”" id="175">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="C.S. Lewis" target="“To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.”" id="176">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="C.S. Lewis" target="“Some day you will be old enough to start reading fairy tales again.”" id="177">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="C.S. Lewis" target="“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.”" id="178">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="C.S. Lewis" target="“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”" id="179">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“You can never get a cup of tea large enough or a book long enough to suit me.”" target="books" id="180">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You can never get a cup of tea large enough or a book long enough to suit me.”" target="inspirational" id="181">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You can never get a cup of tea large enough or a book long enough to suit me.”" target="reading" id="182">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You can never get a cup of tea large enough or a book long enough to suit me.”" target="tea" id="183">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“If you can make a woman laugh, you can make her do anything.”" target="girls" id="184">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“If you can make a woman laugh, you can make her do anything.”" target="love" id="185">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Life is like riding a bicycle. To keep your balance, you must keep moving.”" target="life" id="186">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Life is like riding a bicycle. To keep your balance, you must keep moving.”" target="simile" id="187">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.”" target="love" id="188">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“A wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.”" target="attributed-no-source" id="189">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Martin Luther King Jr." target="“Only in the darkness can you see the stars.”" id="190">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“Only in the darkness can you see the stars.”" target="hope" id="191">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Only in the darkness can you see the stars.”" target="inspirational" id="192">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“It matters not what someone is born, but what they grow to be.”" target="dumbledore" id="193">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="James Baldwin" target="“Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.”" id="194">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.”" target="love" id="195">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”" target="friendship" id="196">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”" target="love" id="197">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Do one thing every day that scares you.”" target="attributed" id="198">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Do one thing every day that scares you.”" target="fear" id="199">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Do one thing every day that scares you.”" target="inspiration" id="200">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.”" target="attributed-no-source" id="201">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.”" target="music" id="202">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Haruki Murakami" target="“If you only read the books that everyone else is reading, you can only think what everyone else is thinking.”" id="203">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“If you only read the books that everyone else is reading, you can only think what everyone else is thinking.”" target="books" id="204">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“If you only read the books that everyone else is reading, you can only think what everyone else is thinking.”" target="thought" id="205">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Alexandre Dumas fils" target="“The difference between genius and stupidity is: genius has its limits.”" id="206">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“The difference between genius and stupidity is: genius has its limits.”" target="misattributed-to-einstein" id="207">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Stephenie Meyer" target="“He's like a drug for you, Bella.”" id="208">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“He's like a drug for you, Bella.”" target="drug" id="209">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“He's like a drug for you, Bella.”" target="romance" id="210">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“He's like a drug for you, Bella.”" target="simile" id="211">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Ernest Hemingway" target="“There is no friend as loyal as a book.”" id="212">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Ernest Hemingway" target="“There is nothing to writing. All you do is sit down at a typewriter and bleed.”" id="213">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“There is no friend as loyal as a book.”" target="books" id="214">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“There is no friend as loyal as a book.”" target="friends" id="215">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“There is no friend as loyal as a book.”" target="novelist-quotes" id="216">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Helen Keller" target="“When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.”" id="217">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.”" target="inspirational" id="218">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="George Bernard Shaw" target="“Life isn't about finding yourself. Life is about creating yourself.”" id="219">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“Life isn't about finding yourself. Life is about creating yourself.”" target="inspirational" id="220">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Life isn't about finding yourself. Life is about creating yourself.”" target="life" id="221">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Life isn't about finding yourself. Life is about creating yourself.”" target="yourself" id="222">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Charles Bukowski" target="“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”" id="223">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Charles Bukowski" target="“Some people never go crazy. What truly horrible lives they must lead.”" id="224">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”" target="alcohol" id="225">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Suzanne Collins" target="“You don’t forget the face of the person who was your last hope.”" id="226">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="Suzanne Collins" target="“Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.”" id="227">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“You don’t forget the face of the person who was your last hope.”" target="the-hunger-games" id="228">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.”" target="humor" id="229">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.”" target="love" id="230">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="J.R.R. Tolkien" target="“Not all those who wander are lost.”" id="231">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“Not all those who wander are lost.”" target="bilbo" id="232">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Not all those who wander are lost.”" target="journey" id="233">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Not all those who wander are lost.”" target="lost" id="234">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Not all those who wander are lost.”" target="quest" id="235">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Not all those who wander are lost.”" target="travel" id="236">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Not all those who wander are lost.”" target="wander" id="237">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Do not pity the dead, Harry. Pity the living, and, above all those who live without love.”" target="live-death-love" id="238">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“There is nothing to writing. All you do is sit down at a typewriter and bleed.”" target="good" id="239">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“There is nothing to writing. All you do is sit down at a typewriter and bleed.”" target="writing" id="240">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.”" target="life" id="241">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.”" target="regrets" id="242">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I have never let my schooling interfere with my education.”" target="education" id="243">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!”" target="troubles" id="244">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Alfred Tennyson" target="“If I had a flower for every time I thought of you...I could walk through my garden forever.”" id="245">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“If I had a flower for every time I thought of you...I could walk through my garden forever.”" target="friendship" id="246">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“If I had a flower for every time I thought of you...I could walk through my garden forever.”" target="love" id="247">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Some people never go crazy. What truly horrible lives they must lead.”" target="humor" id="248">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Terry Pratchett" target="“The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”" id="249">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”" target="humor" id="250">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”" target="open-mind" id="251">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”" target="thinking" id="252">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!”" target="humor" id="253">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!”" target="philosophy" id="254">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="J.D. Salinger" target="“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”" id="255">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”" target="authors" id="256">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”" target="books" id="257">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”" target="literature" id="258">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”" target="reading" id="259">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”" target="writing" id="260">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="George Carlin" target="“The reason I talk to myself is because I’m the only one whose answers I accept.”" id="261">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“The reason I talk to myself is because I’m the only one whose answers I accept.”" target="humor" id="262">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The reason I talk to myself is because I’m the only one whose answers I accept.”" target="insanity" id="263">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The reason I talk to myself is because I’m the only one whose answers I accept.”" target="lies" id="264">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The reason I talk to myself is because I’m the only one whose answers I accept.”" target="lying" id="265">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The reason I talk to myself is because I’m the only one whose answers I accept.”" target="self-indulgence" id="266">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The reason I talk to myself is because I’m the only one whose answers I accept.”" target="truth" id="267">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="John Lennon" target="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" id="268">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="beatles" id="269">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="connection" id="270">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="dreamers" id="271">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="dreaming" id="272">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="dreams" id="273">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="hope" id="274">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="inspirational" id="275">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="peace" id="276">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="W.C. Fields" target="“I am free of all prejudice. I hate everyone equally. ”" id="277">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“I am free of all prejudice. I hate everyone equally. ”" target="humor" id="278">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I am free of all prejudice. I hate everyone equally. ”" target="sinister" id="279">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Ayn Rand" target="“The question isn't who is going to let me; it's who is going to stop me.”" id="280">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“′Classic′ - a book which people praise and don't read.”" target="books" id="281">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“′Classic′ - a book which people praise and don't read.”" target="classic" id="282">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“′Classic′ - a book which people praise and don't read.”" target="reading" id="283">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Anyone who has never made a mistake has never tried anything new.”" target="mistakes" id="284">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”" target="humor" id="285">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”" target="love" id="286">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”" target="romantic" id="287">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”" target="women" id="288">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.”" target="integrity" id="289">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”" target="books" id="290">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”" target="library" id="291">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”" target="reading" id="292">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.”" target="elizabeth-bennet" id="293">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.”" target="jane-austen" id="294">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Some day you will be old enough to start reading fairy tales again.”" target="age" id="295">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Some day you will be old enough to start reading fairy tales again.”" target="fairytales" id="296">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Some day you will be old enough to start reading fairy tales again.”" target="growing-up" id="297">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.”" target="god" id="298">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.”" target="death" id="299">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.”" target="life" id="300">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“A lie can travel half way around the world while the truth is putting on its shoes.”" target="misattributed-mark-twain" id="301">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“A lie can travel half way around the world while the truth is putting on its shoes.”" target="truth" id="302">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”" target="christianity" id="303">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”" target="faith" id="304">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”" target="religion" id="305">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”" target="sun" id="306">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“The truth.&quot; Dumbledore sighed. &quot;It is a beautiful and terrible thing, and should therefore be treated with great caution.”" target="truth" id="307">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Jimi Hendrix" target="“I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.”" id="308">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.”" target="death" id="309">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.”" target="life" id="310">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="J.M. Barrie" target="“To die will be an awfully big adventure.”" id="311">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“To die will be an awfully big adventure.”" target="adventure" id="312">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“To die will be an awfully big adventure.”" target="love" id="313">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="E.E. Cummings" target="“It takes courage to grow up and become who you really are.”" id="314">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“It takes courage to grow up and become who you really are.”" target="courage" id="315">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Khaled Hosseini" target="“But better to get hurt by the truth than comforted with a lie.”" id="316">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“But better to get hurt by the truth than comforted with a lie.”" target="life" id="317">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Harper Lee" target="“You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.”" id="318">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.”" target="better-life-empathy" id="319">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="Madeleine L'Engle" target="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" id="320">
+        <attvalues>
+          <attvalue for="1" value="wrote" />
+        </attvalues>
+      </edge>
+      <edge source="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" target="books" id="321">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" target="children" id="322">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" target="difficult" id="323">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" target="grown-ups" id="324">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" target="write" id="325">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" target="writers" id="326">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" target="writing" id="327">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“Never tell the truth to people who are not worthy of it.”" target="truth" id="328">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“A person's a person, no matter how small.”" target="inspirational" id="329">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“... a mind needs books as a sword needs a whetstone, if it is to keep its edge.”" target="books" id="330">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+      <edge source="“... a mind needs books as a sword needs a whetstone, if it is to keep its edge.”" target="mind" id="331">
+        <attvalues>
+          <attvalue for="1" value="has_tag" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

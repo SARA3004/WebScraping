@@ -1,0 +1,1864 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="Albert Einstein">
+      <data key="d0">author</data>
+    </node>
+    <node id="“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="change">
+      <data key="d0">tag</data>
+    </node>
+    <node id="deep-thoughts">
+      <data key="d0">tag</data>
+    </node>
+    <node id="thinking">
+      <data key="d0">tag</data>
+    </node>
+    <node id="world">
+      <data key="d0">tag</data>
+    </node>
+    <node id="J.K. Rowling">
+      <data key="d0">author</data>
+    </node>
+    <node id="“It is our choices, Harry, that show what we truly are, far more than our abilities.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="abilities">
+      <data key="d0">tag</data>
+    </node>
+    <node id="choices">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="inspirational">
+      <data key="d0">tag</data>
+    </node>
+    <node id="life">
+      <data key="d0">tag</data>
+    </node>
+    <node id="live">
+      <data key="d0">tag</data>
+    </node>
+    <node id="miracle">
+      <data key="d0">tag</data>
+    </node>
+    <node id="miracles">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Jane Austen">
+      <data key="d0">author</data>
+    </node>
+    <node id="“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="aliteracy">
+      <data key="d0">tag</data>
+    </node>
+    <node id="books">
+      <data key="d0">tag</data>
+    </node>
+    <node id="classic">
+      <data key="d0">tag</data>
+    </node>
+    <node id="humor">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Marilyn Monroe">
+      <data key="d0">author</data>
+    </node>
+    <node id="“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="be-yourself">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“Try not to become a man of success. Rather become a man of value.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="adulthood">
+      <data key="d0">tag</data>
+    </node>
+    <node id="success">
+      <data key="d0">tag</data>
+    </node>
+    <node id="value">
+      <data key="d0">tag</data>
+    </node>
+    <node id="André Gide">
+      <data key="d0">author</data>
+    </node>
+    <node id="“It is better to be hated for what you are than to be loved for what you are not.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="love">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Thomas A. Edison">
+      <data key="d0">author</data>
+    </node>
+    <node id="“I have not failed. I've just found 10,000 ways that won't work.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="edison">
+      <data key="d0">tag</data>
+    </node>
+    <node id="failure">
+      <data key="d0">tag</data>
+    </node>
+    <node id="paraphrased">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Eleanor Roosevelt">
+      <data key="d0">author</data>
+    </node>
+    <node id="“A woman is like a tea bag; you never know how strong it is until it's in hot water.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="misattributed-eleanor-roosevelt">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Steve Martin">
+      <data key="d0">author</data>
+    </node>
+    <node id="“A day without sunshine is like, you know, night.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="obvious">
+      <data key="d0">tag</data>
+    </node>
+    <node id="simile">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="friends">
+      <data key="d0">tag</data>
+    </node>
+    <node id="heartbreak">
+      <data key="d0">tag</data>
+    </node>
+    <node id="sisters">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="courage">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“If you can't explain it to a six year old, you don't understand it yourself.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="simplicity">
+      <data key="d0">tag</data>
+    </node>
+    <node id="understand">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Bob Marley">
+      <data key="d0">author</data>
+    </node>
+    <node id="“You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect—you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="Dr. Seuss">
+      <data key="d0">author</data>
+    </node>
+    <node id="“I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="fantasy">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Douglas Adams">
+      <data key="d0">author</data>
+    </node>
+    <node id="“I may not have gone where I intended to go, but I think I have ended up where I needed to be.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="navigation">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Elie Wiesel">
+      <data key="d0">author</data>
+    </node>
+    <node id="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="activism">
+      <data key="d0">tag</data>
+    </node>
+    <node id="apathy">
+      <data key="d0">tag</data>
+    </node>
+    <node id="hate">
+      <data key="d0">tag</data>
+    </node>
+    <node id="indifference">
+      <data key="d0">tag</data>
+    </node>
+    <node id="opposite">
+      <data key="d0">tag</data>
+    </node>
+    <node id="philosophy">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Friedrich Nietzsche">
+      <data key="d0">author</data>
+    </node>
+    <node id="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="friendship">
+      <data key="d0">tag</data>
+    </node>
+    <node id="lack-of-friendship">
+      <data key="d0">tag</data>
+    </node>
+    <node id="lack-of-love">
+      <data key="d0">tag</data>
+    </node>
+    <node id="marriage">
+      <data key="d0">tag</data>
+    </node>
+    <node id="unhappy-marriage">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Mark Twain">
+      <data key="d0">author</data>
+    </node>
+    <node id="“Good friends, good books, and a sleepy conscience: this is the ideal life.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="contentment">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Allen Saunders">
+      <data key="d0">author</data>
+    </node>
+    <node id="“Life is what happens to us while we are making other plans.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="fate">
+      <data key="d0">tag</data>
+    </node>
+    <node id="misattributed-john-lennon">
+      <data key="d0">tag</data>
+    </node>
+    <node id="planning">
+      <data key="d0">tag</data>
+    </node>
+    <node id="plans">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Pablo Neruda">
+      <data key="d0">author</data>
+    </node>
+    <node id="“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="poetry">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Ralph Waldo Emerson">
+      <data key="d0">author</data>
+    </node>
+    <node id="“For every minute you are angry you lose sixty seconds of happiness.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="happiness">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Mother Teresa">
+      <data key="d0">author</data>
+    </node>
+    <node id="“If you judge people, you have no time to love them.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="attributed-no-source">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Garrison Keillor">
+      <data key="d0">author</data>
+    </node>
+    <node id="“Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="religion">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Jim Henson">
+      <data key="d0">author</data>
+    </node>
+    <node id="“Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“Today you are You, that is truer than true. There is no one alive who is Youer than You.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="comedy">
+      <data key="d0">tag</data>
+    </node>
+    <node id="yourself">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="children">
+      <data key="d0">tag</data>
+    </node>
+    <node id="fairy-tales">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“Logic will get you from A to Z; imagination will get you everywhere.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="imagination">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“One good thing about music, when it hits you, you feel no pain.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="music">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="learning">
+      <data key="d0">tag</data>
+    </node>
+    <node id="reading">
+      <data key="d0">tag</data>
+    </node>
+    <node id="seuss">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="dumbledore">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“Not all of us can do great things. But we can do small things with great love.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="misattributed-to-mother-teresa">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“To the well-organized mind, death is but the next great adventure.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="death">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Charles M. Schulz">
+      <data key="d0">author</data>
+    </node>
+    <node id="“All you need is love. But a little chocolate now and then doesn't hurt.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="chocolate">
+      <data key="d0">tag</data>
+    </node>
+    <node id="food">
+      <data key="d0">tag</data>
+    </node>
+    <node id="William Nicholson">
+      <data key="d0">author</data>
+    </node>
+    <node id="“We read to know we're not alone.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="misattributed-to-c-s-lewis">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“Any fool can know. The point is to understand.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="knowledge">
+      <data key="d0">tag</data>
+    </node>
+    <node id="understanding">
+      <data key="d0">tag</data>
+    </node>
+    <node id="wisdom">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Jorge Luis Borges">
+      <data key="d0">author</data>
+    </node>
+    <node id="“I have always imagined that Paradise will be a kind of library.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="library">
+      <data key="d0">tag</data>
+    </node>
+    <node id="George Eliot">
+      <data key="d0">author</data>
+    </node>
+    <node id="“It is never too late to be what you might have been.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="George R.R. Martin">
+      <data key="d0">author</data>
+    </node>
+    <node id="“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="read">
+      <data key="d0">tag</data>
+    </node>
+    <node id="readers">
+      <data key="d0">tag</data>
+    </node>
+    <node id="reading-books">
+      <data key="d0">tag</data>
+    </node>
+    <node id="C.S. Lewis">
+      <data key="d0">author</data>
+    </node>
+    <node id="“You can never get a cup of tea large enough or a book long enough to suit me.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="tea">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“You believe lies so you eventually learn to trust no one but yourself.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“If you can make a woman laugh, you can make her do anything.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="girls">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“Life is like riding a bicycle. To keep your balance, you must keep moving.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“A wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="Martin Luther King Jr.">
+      <data key="d0">author</data>
+    </node>
+    <node id="“Only in the darkness can you see the stars.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="hope">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“It matters not what someone is born, but what they grow to be.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="James Baldwin">
+      <data key="d0">author</data>
+    </node>
+    <node id="“Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“Do one thing every day that scares you.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="attributed">
+      <data key="d0">tag</data>
+    </node>
+    <node id="fear">
+      <data key="d0">tag</data>
+    </node>
+    <node id="inspiration">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="Haruki Murakami">
+      <data key="d0">author</data>
+    </node>
+    <node id="“If you only read the books that everyone else is reading, you can only think what everyone else is thinking.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="thought">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Alexandre Dumas fils">
+      <data key="d0">author</data>
+    </node>
+    <node id="“The difference between genius and stupidity is: genius has its limits.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="misattributed-to-einstein">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Stephenie Meyer">
+      <data key="d0">author</data>
+    </node>
+    <node id="“He's like a drug for you, Bella.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="drug">
+      <data key="d0">tag</data>
+    </node>
+    <node id="romance">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Ernest Hemingway">
+      <data key="d0">author</data>
+    </node>
+    <node id="“There is no friend as loyal as a book.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="novelist-quotes">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Helen Keller">
+      <data key="d0">author</data>
+    </node>
+    <node id="“When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="George Bernard Shaw">
+      <data key="d0">author</data>
+    </node>
+    <node id="“Life isn't about finding yourself. Life is about creating yourself.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="Charles Bukowski">
+      <data key="d0">author</data>
+    </node>
+    <node id="“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="alcohol">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Suzanne Collins">
+      <data key="d0">author</data>
+    </node>
+    <node id="“You don’t forget the face of the person who was your last hope.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="the-hunger-games">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="J.R.R. Tolkien">
+      <data key="d0">author</data>
+    </node>
+    <node id="“Not all those who wander are lost.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="bilbo">
+      <data key="d0">tag</data>
+    </node>
+    <node id="journey">
+      <data key="d0">tag</data>
+    </node>
+    <node id="lost">
+      <data key="d0">tag</data>
+    </node>
+    <node id="quest">
+      <data key="d0">tag</data>
+    </node>
+    <node id="travel">
+      <data key="d0">tag</data>
+    </node>
+    <node id="wander">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“Do not pity the dead, Harry. Pity the living, and, above all those who live without love.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="live-death-love">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“There is nothing to writing. All you do is sit down at a typewriter and bleed.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="good">
+      <data key="d0">tag</data>
+    </node>
+    <node id="writing">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="regrets">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“I have never let my schooling interfere with my education.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="education">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="troubles">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Alfred Tennyson">
+      <data key="d0">author</data>
+    </node>
+    <node id="“If I had a flower for every time I thought of you...I could walk through my garden forever.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“Some people never go crazy. What truly horrible lives they must lead.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="Terry Pratchett">
+      <data key="d0">author</data>
+    </node>
+    <node id="“The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="open-mind">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="J.D. Salinger">
+      <data key="d0">author</data>
+    </node>
+    <node id="“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="authors">
+      <data key="d0">tag</data>
+    </node>
+    <node id="literature">
+      <data key="d0">tag</data>
+    </node>
+    <node id="George Carlin">
+      <data key="d0">author</data>
+    </node>
+    <node id="“The reason I talk to myself is because I’m the only one whose answers I accept.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="insanity">
+      <data key="d0">tag</data>
+    </node>
+    <node id="lies">
+      <data key="d0">tag</data>
+    </node>
+    <node id="lying">
+      <data key="d0">tag</data>
+    </node>
+    <node id="self-indulgence">
+      <data key="d0">tag</data>
+    </node>
+    <node id="truth">
+      <data key="d0">tag</data>
+    </node>
+    <node id="John Lennon">
+      <data key="d0">author</data>
+    </node>
+    <node id="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="beatles">
+      <data key="d0">tag</data>
+    </node>
+    <node id="connection">
+      <data key="d0">tag</data>
+    </node>
+    <node id="dreamers">
+      <data key="d0">tag</data>
+    </node>
+    <node id="dreaming">
+      <data key="d0">tag</data>
+    </node>
+    <node id="dreams">
+      <data key="d0">tag</data>
+    </node>
+    <node id="peace">
+      <data key="d0">tag</data>
+    </node>
+    <node id="W.C. Fields">
+      <data key="d0">author</data>
+    </node>
+    <node id="“I am free of all prejudice. I hate everyone equally. ”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="sinister">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Ayn Rand">
+      <data key="d0">author</data>
+    </node>
+    <node id="“The question isn't who is going to let me; it's who is going to stop me.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“′Classic′ - a book which people praise and don't read.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“Anyone who has never made a mistake has never tried anything new.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="mistakes">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="romantic">
+      <data key="d0">tag</data>
+    </node>
+    <node id="women">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="integrity">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="elizabeth-bennet">
+      <data key="d0">tag</data>
+    </node>
+    <node id="jane-austen">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“Some day you will be old enough to start reading fairy tales again.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="age">
+      <data key="d0">tag</data>
+    </node>
+    <node id="fairytales">
+      <data key="d0">tag</data>
+    </node>
+    <node id="growing-up">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="god">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“A lie can travel half way around the world while the truth is putting on its shoes.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="misattributed-mark-twain">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="christianity">
+      <data key="d0">tag</data>
+    </node>
+    <node id="faith">
+      <data key="d0">tag</data>
+    </node>
+    <node id="sun">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“The truth.&quot; Dumbledore sighed. &quot;It is a beautiful and terrible thing, and should therefore be treated with great caution.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="Jimi Hendrix">
+      <data key="d0">author</data>
+    </node>
+    <node id="“I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="J.M. Barrie">
+      <data key="d0">author</data>
+    </node>
+    <node id="“To die will be an awfully big adventure.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="adventure">
+      <data key="d0">tag</data>
+    </node>
+    <node id="E.E. Cummings">
+      <data key="d0">author</data>
+    </node>
+    <node id="“It takes courage to grow up and become who you really are.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="Khaled Hosseini">
+      <data key="d0">author</data>
+    </node>
+    <node id="“But better to get hurt by the truth than comforted with a lie.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="Harper Lee">
+      <data key="d0">author</data>
+    </node>
+    <node id="“You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="better-life-empathy">
+      <data key="d0">tag</data>
+    </node>
+    <node id="Madeleine L'Engle">
+      <data key="d0">author</data>
+    </node>
+    <node id="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="difficult">
+      <data key="d0">tag</data>
+    </node>
+    <node id="grown-ups">
+      <data key="d0">tag</data>
+    </node>
+    <node id="write">
+      <data key="d0">tag</data>
+    </node>
+    <node id="writers">
+      <data key="d0">tag</data>
+    </node>
+    <node id="“Never tell the truth to people who are not worthy of it.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“A person's a person, no matter how small.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="“... a mind needs books as a sword needs a whetstone, if it is to keep its edge.”">
+      <data key="d0">quote</data>
+    </node>
+    <node id="mind">
+      <data key="d0">tag</data>
+    </node>
+    <edge source="Albert Einstein" target="“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Albert Einstein" target="“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Albert Einstein" target="“Try not to become a man of success. Rather become a man of value.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Albert Einstein" target="“If you can't explain it to a six year old, you don't understand it yourself.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Albert Einstein" target="“If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Albert Einstein" target="“Logic will get you from A to Z; imagination will get you everywhere.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Albert Einstein" target="“Any fool can know. The point is to understand.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Albert Einstein" target="“Life is like riding a bicycle. To keep your balance, you must keep moving.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Albert Einstein" target="“If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Albert Einstein" target="“Anyone who has never made a mistake has never tried anything new.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”" target="change">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”" target="deep-thoughts">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”" target="thinking">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”" target="world">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="J.K. Rowling" target="“It is our choices, Harry, that show what we truly are, far more than our abilities.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="J.K. Rowling" target="“It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="J.K. Rowling" target="“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="J.K. Rowling" target="“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="J.K. Rowling" target="“To the well-organized mind, death is but the next great adventure.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="J.K. Rowling" target="“It matters not what someone is born, but what they grow to be.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="J.K. Rowling" target="“Do not pity the dead, Harry. Pity the living, and, above all those who live without love.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="J.K. Rowling" target="“Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="J.K. Rowling" target="“The truth.&quot; Dumbledore sighed. &quot;It is a beautiful and terrible thing, and should therefore be treated with great caution.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“It is our choices, Harry, that show what we truly are, far more than our abilities.”" target="abilities">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“It is our choices, Harry, that show what we truly are, far more than our abilities.”" target="choices">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”" target="inspirational">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”" target="life">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”" target="live">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”" target="miracle">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”" target="miracles">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Jane Austen" target="“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Jane Austen" target="“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Jane Austen" target="“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Jane Austen" target="“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Jane Austen" target="“There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”" target="aliteracy">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”" target="books">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”" target="classic">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”" target="humor">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Marilyn Monroe" target="“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Marilyn Monroe" target="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Marilyn Monroe" target="“You believe lies so you eventually learn to trust no one but yourself.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Marilyn Monroe" target="“If you can make a woman laugh, you can make her do anything.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Marilyn Monroe" target="“The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Marilyn Monroe" target="“A wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Marilyn Monroe" target="“I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”" target="be-yourself">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”" target="inspirational">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Try not to become a man of success. Rather become a man of value.”" target="adulthood">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Try not to become a man of success. Rather become a man of value.”" target="success">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Try not to become a man of success. Rather become a man of value.”" target="value">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="André Gide" target="“It is better to be hated for what you are than to be loved for what you are not.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“It is better to be hated for what you are than to be loved for what you are not.”" target="life">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“It is better to be hated for what you are than to be loved for what you are not.”" target="love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Thomas A. Edison" target="“I have not failed. I've just found 10,000 ways that won't work.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“I have not failed. I've just found 10,000 ways that won't work.”" target="edison">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I have not failed. I've just found 10,000 ways that won't work.”" target="failure">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I have not failed. I've just found 10,000 ways that won't work.”" target="inspirational">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I have not failed. I've just found 10,000 ways that won't work.”" target="paraphrased">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Eleanor Roosevelt" target="“A woman is like a tea bag; you never know how strong it is until it's in hot water.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Eleanor Roosevelt" target="“Do one thing every day that scares you.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“A woman is like a tea bag; you never know how strong it is until it's in hot water.”" target="misattributed-eleanor-roosevelt">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Steve Martin" target="“A day without sunshine is like, you know, night.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“A day without sunshine is like, you know, night.”" target="humor">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“A day without sunshine is like, you know, night.”" target="obvious">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“A day without sunshine is like, you know, night.”" target="simile">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”" target="friends">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”" target="heartbreak">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”" target="inspirational">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”" target="life">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”" target="love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”" target="sisters">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”" target="courage">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”" target="friends">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“If you can't explain it to a six year old, you don't understand it yourself.”" target="simplicity">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“If you can't explain it to a six year old, you don't understand it yourself.”" target="understand">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Bob Marley" target="“You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect—you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Bob Marley" target="“One good thing about music, when it hits you, you feel no pain.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Bob Marley" target="“The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect—you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.”" target="love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Dr. Seuss" target="“I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Dr. Seuss" target="“Today you are You, that is truer than true. There is no one alive who is Youer than You.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Dr. Seuss" target="“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Dr. Seuss" target="“I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Dr. Seuss" target="“Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Dr. Seuss" target="“A person's a person, no matter how small.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.”" target="fantasy">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Douglas Adams" target="“I may not have gone where I intended to go, but I think I have ended up where I needed to be.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“I may not have gone where I intended to go, but I think I have ended up where I needed to be.”" target="life">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I may not have gone where I intended to go, but I think I have ended up where I needed to be.”" target="navigation">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Elie Wiesel" target="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="activism">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="apathy">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="hate">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="indifference">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="inspirational">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="opposite">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”" target="philosophy">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Friedrich Nietzsche" target="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”" target="friendship">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”" target="lack-of-friendship">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”" target="lack-of-love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”" target="love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”" target="marriage">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”" target="unhappy-marriage">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Mark Twain" target="“Good friends, good books, and a sleepy conscience: this is the ideal life.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Mark Twain" target="“I have never let my schooling interfere with my education.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Mark Twain" target="“′Classic′ - a book which people praise and don't read.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Mark Twain" target="“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Mark Twain" target="“A lie can travel half way around the world while the truth is putting on its shoes.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Mark Twain" target="“Never tell the truth to people who are not worthy of it.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“Good friends, good books, and a sleepy conscience: this is the ideal life.”" target="books">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Good friends, good books, and a sleepy conscience: this is the ideal life.”" target="contentment">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Good friends, good books, and a sleepy conscience: this is the ideal life.”" target="friends">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Good friends, good books, and a sleepy conscience: this is the ideal life.”" target="friendship">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Good friends, good books, and a sleepy conscience: this is the ideal life.”" target="life">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Allen Saunders" target="“Life is what happens to us while we are making other plans.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“Life is what happens to us while we are making other plans.”" target="fate">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Life is what happens to us while we are making other plans.”" target="life">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Life is what happens to us while we are making other plans.”" target="misattributed-john-lennon">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Life is what happens to us while we are making other plans.”" target="planning">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Life is what happens to us while we are making other plans.”" target="plans">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Pablo Neruda" target="“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”" target="love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”" target="poetry">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Ralph Waldo Emerson" target="“For every minute you are angry you lose sixty seconds of happiness.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Ralph Waldo Emerson" target="“Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“For every minute you are angry you lose sixty seconds of happiness.”" target="happiness">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Mother Teresa" target="“If you judge people, you have no time to love them.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Mother Teresa" target="“Not all of us can do great things. But we can do small things with great love.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“If you judge people, you have no time to love them.”" target="attributed-no-source">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Garrison Keillor" target="“Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”" target="humor">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”" target="religion">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Jim Henson" target="“Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.”" target="humor">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Today you are You, that is truer than true. There is no one alive who is Youer than You.”" target="comedy">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Today you are You, that is truer than true. There is no one alive who is Youer than You.”" target="life">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Today you are You, that is truer than true. There is no one alive who is Youer than You.”" target="yourself">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”" target="children">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”" target="fairy-tales">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Logic will get you from A to Z; imagination will get you everywhere.”" target="imagination">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“One good thing about music, when it hits you, you feel no pain.”" target="music">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”" target="learning">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”" target="reading">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”" target="seuss">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”" target="dumbledore">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.”" target="friendship">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Not all of us can do great things. But we can do small things with great love.”" target="misattributed-to-mother-teresa">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Not all of us can do great things. But we can do small things with great love.”" target="paraphrased">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“To the well-organized mind, death is but the next great adventure.”" target="death">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“To the well-organized mind, death is but the next great adventure.”" target="inspirational">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Charles M. Schulz" target="“All you need is love. But a little chocolate now and then doesn't hurt.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“All you need is love. But a little chocolate now and then doesn't hurt.”" target="chocolate">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“All you need is love. But a little chocolate now and then doesn't hurt.”" target="food">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“All you need is love. But a little chocolate now and then doesn't hurt.”" target="humor">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="William Nicholson" target="“We read to know we're not alone.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“We read to know we're not alone.”" target="misattributed-to-c-s-lewis">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“We read to know we're not alone.”" target="reading">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Any fool can know. The point is to understand.”" target="knowledge">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Any fool can know. The point is to understand.”" target="learning">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Any fool can know. The point is to understand.”" target="understanding">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Any fool can know. The point is to understand.”" target="wisdom">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Jorge Luis Borges" target="“I have always imagined that Paradise will be a kind of library.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“I have always imagined that Paradise will be a kind of library.”" target="books">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I have always imagined that Paradise will be a kind of library.”" target="library">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="George Eliot" target="“It is never too late to be what you might have been.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“It is never too late to be what you might have been.”" target="inspirational">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="George R.R. Martin" target="“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="George R.R. Martin" target="“... a mind needs books as a sword needs a whetstone, if it is to keep its edge.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”" target="read">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”" target="readers">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”" target="reading">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”" target="reading-books">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="C.S. Lewis" target="“You can never get a cup of tea large enough or a book long enough to suit me.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="C.S. Lewis" target="“To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="C.S. Lewis" target="“Some day you will be old enough to start reading fairy tales again.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="C.S. Lewis" target="“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="C.S. Lewis" target="“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“You can never get a cup of tea large enough or a book long enough to suit me.”" target="books">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You can never get a cup of tea large enough or a book long enough to suit me.”" target="inspirational">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You can never get a cup of tea large enough or a book long enough to suit me.”" target="reading">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You can never get a cup of tea large enough or a book long enough to suit me.”" target="tea">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“If you can make a woman laugh, you can make her do anything.”" target="girls">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“If you can make a woman laugh, you can make her do anything.”" target="love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Life is like riding a bicycle. To keep your balance, you must keep moving.”" target="life">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Life is like riding a bicycle. To keep your balance, you must keep moving.”" target="simile">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.”" target="love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“A wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.”" target="attributed-no-source">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Martin Luther King Jr." target="“Only in the darkness can you see the stars.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“Only in the darkness can you see the stars.”" target="hope">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Only in the darkness can you see the stars.”" target="inspirational">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“It matters not what someone is born, but what they grow to be.”" target="dumbledore">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="James Baldwin" target="“Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.”" target="love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”" target="friendship">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”" target="love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Do one thing every day that scares you.”" target="attributed">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Do one thing every day that scares you.”" target="fear">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Do one thing every day that scares you.”" target="inspiration">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.”" target="attributed-no-source">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.”" target="music">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Haruki Murakami" target="“If you only read the books that everyone else is reading, you can only think what everyone else is thinking.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“If you only read the books that everyone else is reading, you can only think what everyone else is thinking.”" target="books">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“If you only read the books that everyone else is reading, you can only think what everyone else is thinking.”" target="thought">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Alexandre Dumas fils" target="“The difference between genius and stupidity is: genius has its limits.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“The difference between genius and stupidity is: genius has its limits.”" target="misattributed-to-einstein">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Stephenie Meyer" target="“He's like a drug for you, Bella.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“He's like a drug for you, Bella.”" target="drug">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“He's like a drug for you, Bella.”" target="romance">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“He's like a drug for you, Bella.”" target="simile">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Ernest Hemingway" target="“There is no friend as loyal as a book.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Ernest Hemingway" target="“There is nothing to writing. All you do is sit down at a typewriter and bleed.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“There is no friend as loyal as a book.”" target="books">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“There is no friend as loyal as a book.”" target="friends">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“There is no friend as loyal as a book.”" target="novelist-quotes">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Helen Keller" target="“When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.”" target="inspirational">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="George Bernard Shaw" target="“Life isn't about finding yourself. Life is about creating yourself.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“Life isn't about finding yourself. Life is about creating yourself.”" target="inspirational">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Life isn't about finding yourself. Life is about creating yourself.”" target="life">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Life isn't about finding yourself. Life is about creating yourself.”" target="yourself">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Charles Bukowski" target="“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Charles Bukowski" target="“Some people never go crazy. What truly horrible lives they must lead.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”" target="alcohol">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Suzanne Collins" target="“You don’t forget the face of the person who was your last hope.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="Suzanne Collins" target="“Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“You don’t forget the face of the person who was your last hope.”" target="the-hunger-games">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.”" target="humor">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.”" target="love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="J.R.R. Tolkien" target="“Not all those who wander are lost.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“Not all those who wander are lost.”" target="bilbo">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Not all those who wander are lost.”" target="journey">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Not all those who wander are lost.”" target="lost">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Not all those who wander are lost.”" target="quest">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Not all those who wander are lost.”" target="travel">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Not all those who wander are lost.”" target="wander">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Do not pity the dead, Harry. Pity the living, and, above all those who live without love.”" target="live-death-love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“There is nothing to writing. All you do is sit down at a typewriter and bleed.”" target="good">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“There is nothing to writing. All you do is sit down at a typewriter and bleed.”" target="writing">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.”" target="life">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.”" target="regrets">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I have never let my schooling interfere with my education.”" target="education">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!”" target="troubles">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Alfred Tennyson" target="“If I had a flower for every time I thought of you...I could walk through my garden forever.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“If I had a flower for every time I thought of you...I could walk through my garden forever.”" target="friendship">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“If I had a flower for every time I thought of you...I could walk through my garden forever.”" target="love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Some people never go crazy. What truly horrible lives they must lead.”" target="humor">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Terry Pratchett" target="“The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”" target="humor">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”" target="open-mind">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”" target="thinking">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!”" target="humor">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!”" target="philosophy">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="J.D. Salinger" target="“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”" target="authors">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”" target="books">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”" target="literature">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”" target="reading">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”" target="writing">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="George Carlin" target="“The reason I talk to myself is because I’m the only one whose answers I accept.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“The reason I talk to myself is because I’m the only one whose answers I accept.”" target="humor">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The reason I talk to myself is because I’m the only one whose answers I accept.”" target="insanity">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The reason I talk to myself is because I’m the only one whose answers I accept.”" target="lies">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The reason I talk to myself is because I’m the only one whose answers I accept.”" target="lying">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The reason I talk to myself is because I’m the only one whose answers I accept.”" target="self-indulgence">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The reason I talk to myself is because I’m the only one whose answers I accept.”" target="truth">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="John Lennon" target="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="beatles">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="connection">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="dreamers">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="dreaming">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="dreams">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="hope">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="inspirational">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”" target="peace">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="W.C. Fields" target="“I am free of all prejudice. I hate everyone equally. ”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“I am free of all prejudice. I hate everyone equally. ”" target="humor">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I am free of all prejudice. I hate everyone equally. ”" target="sinister">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Ayn Rand" target="“The question isn't who is going to let me; it's who is going to stop me.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“′Classic′ - a book which people praise and don't read.”" target="books">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“′Classic′ - a book which people praise and don't read.”" target="classic">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“′Classic′ - a book which people praise and don't read.”" target="reading">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Anyone who has never made a mistake has never tried anything new.”" target="mistakes">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”" target="humor">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”" target="love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”" target="romantic">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”" target="women">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.”" target="integrity">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”" target="books">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”" target="library">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”" target="reading">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.”" target="elizabeth-bennet">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.”" target="jane-austen">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Some day you will be old enough to start reading fairy tales again.”" target="age">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Some day you will be old enough to start reading fairy tales again.”" target="fairytales">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Some day you will be old enough to start reading fairy tales again.”" target="growing-up">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.”" target="god">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.”" target="death">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.”" target="life">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“A lie can travel half way around the world while the truth is putting on its shoes.”" target="misattributed-mark-twain">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“A lie can travel half way around the world while the truth is putting on its shoes.”" target="truth">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”" target="christianity">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”" target="faith">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”" target="religion">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”" target="sun">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“The truth.&quot; Dumbledore sighed. &quot;It is a beautiful and terrible thing, and should therefore be treated with great caution.”" target="truth">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Jimi Hendrix" target="“I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.”" target="death">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.”" target="life">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="J.M. Barrie" target="“To die will be an awfully big adventure.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“To die will be an awfully big adventure.”" target="adventure">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“To die will be an awfully big adventure.”" target="love">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="E.E. Cummings" target="“It takes courage to grow up and become who you really are.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“It takes courage to grow up and become who you really are.”" target="courage">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Khaled Hosseini" target="“But better to get hurt by the truth than comforted with a lie.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“But better to get hurt by the truth than comforted with a lie.”" target="life">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Harper Lee" target="“You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.”" target="better-life-empathy">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="Madeleine L'Engle" target="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”">
+      <data key="d1">wrote</data>
+    </edge>
+    <edge source="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" target="books">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" target="children">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" target="difficult">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" target="grown-ups">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" target="write">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" target="writers">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”" target="writing">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“Never tell the truth to people who are not worthy of it.”" target="truth">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“A person's a person, no matter how small.”" target="inspirational">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“... a mind needs books as a sword needs a whetstone, if it is to keep its edge.”" target="books">
+      <data key="d1">has_tag</data>
+    </edge>
+    <edge source="“... a mind needs books as a sword needs a whetstone, if it is to keep its edge.”" target="mind">
+      <data key="d1">has_tag</data>
+    </edge>
+  </graph>
+</graphml>
